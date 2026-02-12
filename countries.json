@@ -1,0 +1,38 @@
+[
+    {
+        "name": "United States",
+        "flag_image": "🇺🇸",
+        "code": "US",
+        "dial_code": "+1"
+    },
+    {
+        "name": "India",
+        "flag": "🇮🇳",
+        "code": "IN",
+        "dial_code": "+91"
+    },
+    {
+        "name": "Russia",
+        "flag": "🇷🇺",
+        "code": "RU",
+        "dial_code": "+7"
+    },
+    {
+        "name": "China",
+        "flag": "🇷🇺",
+        "code": "CN",
+        "dial_code": "+86"
+    },
+    {
+        "name": "United Arab Emirates",
+        "flag": "🇦🇪",
+        "code": "AE",
+        "dial_code": "+971"
+    },
+    {
+        "name": "United Kingdom",
+        "flag": "🇬🇧",
+        "code": "GB",
+        "dial_code": "+44"
+    }
+]
